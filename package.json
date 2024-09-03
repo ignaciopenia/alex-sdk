@@ -72,6 +72,7 @@
     "ts-json-schema-generator": "^2.3.0",
     "tslib": "^2.6.3",
     "tsx": "^4.15.5",
+    "typedoc": "^0.26.6",
     "typescript": "^5.4.5"
   }
 }
